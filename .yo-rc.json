@@ -1,0 +1,12 @@
+{
+  "generator-sppp": {
+    "appname": "decision",
+    "appdesc": "",
+    "author": "Denis Molodtsov",
+    "siteUrl": "https://jolera365.sharepoint.com/sd/Knowledge",
+    "username": "dmolodtsov@jolera.com",
+    "spRootFolder": "Assets/App",
+    "dlRootFolder": "./App",
+    "bowerlibs": []
+  }
+}
